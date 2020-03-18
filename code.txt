@@ -6,3 +6,4 @@ jar -cvf ROOT.war *
 pwd
 ls -ltrh
 whoami
+hi
