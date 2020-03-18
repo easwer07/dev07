@@ -5,3 +5,4 @@ cd /home/vsts/work/1/s
 jar -cvf ROOT.war *
 pwd
 ls -ltrh
+whoami
