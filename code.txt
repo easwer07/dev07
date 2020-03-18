@@ -1,0 +1,7 @@
+/home/vsts/work/1/s
+pwd
+ls -ltr
+cd /home/vsts/work/1/s
+jar -cvf ROOT.war *
+pwd
+ls -ltrh
