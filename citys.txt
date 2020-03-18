@@ -1,0 +1,12 @@
+user
+admin
+password
+uk
+usa
+canada
+pune
+madhya pradesh
+banglore
+hyderabad
+khammam
+london
