@@ -10,3 +10,5 @@ banglore
 hyderabad
 khammam
 london
+kothagudem
+california
